@@ -1,9 +1,6 @@
 # CartoonTemple
-> stay simple, stay young
-
 > made by unity 2018.3.10f1
-
-> 2019.4.9
+> 没什么用的3D项目, 传送门 https://github.com/luoxixuan/CartoonTemple
 
 ![too young too simle, sometimes naive](https://raw.githubusercontent.com/luoxixuan/gamedevblog.markdown/master/blog/media/003/Temple.png)
 
