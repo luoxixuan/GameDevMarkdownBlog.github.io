@@ -9,10 +9,10 @@ $(document).ready(function() {
     }
     var user = webURL.split(splitFlag)[1].split(".")[0];
     //user = 'yanghanqing';
-    blogListURL = 'https://api.gitee.com/repos/' + user + '/gamedevblog/contents/blog';
-    issuesList = 'https://api.gitee.com/repos/' + user + '/gamedevblog/issues';
-    issuesHTML = 'https://gitee.com/' + user + '/gamedevblog/issues'
-    readmeURL = 'https://raw.giteeusercontent.com/' + user + '/gamedevblog/master/About Me.md';
+    blogListURL = 'https://api.github.com/repos/' + user + '/gamedevblog.markdown/contents/blog';
+    issuesList = 'https://api.github.com/repos/' + user + '/gamedevblog.markdown/issues';
+    issuesHTML = 'https://github.com/' + user + '/gamedevblog.markdown/issues'
+    readmeURL = 'https://raw.githubusercontent.com/' + user + '/gamedevblog.markdown/master/About Me.md';
 
 
     $("#header").text(user + "'s Blog");
